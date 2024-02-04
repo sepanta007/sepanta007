@@ -21,6 +21,7 @@ I enjoy the challenge of turning raw data into meaningful patterns and predictio
 * Document Typesetting : LaTeX
 
 🏋️‍♂️🎾 Off the Keyboard
+
 Beyond the screen, you'll find me both in the gym and on the tennis court.
 I'm a fitness enthusiast, and the gym is my playground for both mental and physical well-being.
 Tennis is my preferred sport, and whether I'm coding, lifting weights, or hitting aces 😁, I'm all about pushing boundaries and constant improvement 💪. 
