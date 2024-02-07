@@ -27,7 +27,7 @@ I'm a fitness enthusiast, and the gym is my playground for both mental and physi
 Tennis is my preferred sport, and whether I'm coding, lifting weights, or hitting aces 😁, I'm all about pushing boundaries and constant improvement 💪.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepanta007&show_icons=true&theme=radical) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepanta007&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/sepanta007)
