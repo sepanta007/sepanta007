@@ -1,4 +1,4 @@
-### Hi there 👋, this is Sepanta 👨‍💻 !
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sepanta+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+!)](https://git.io/typing-svg)
 
 ![Sepanta](https://images.squarespace-cdn.com/content/v1/56cdf6a286db435e428248e4/1456814747349-8DJAT31WM36SZG9I0F1A/Sep+1.jpg?format=1500w)
 
